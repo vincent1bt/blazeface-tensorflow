@@ -2,7 +2,7 @@
 
 In this repository you can find the code to test and train a face detection model based on the BlazeFace architecture.
 
-This model can run on even low-end hardware like a 2 core CPU. You can learn more about the architecture and the process to train the network in [this post](https://vincentblog.xyz/posts/face-detection-for-low-end-hardware-using-the-blaze-face-architecture).
+This model can run on even low-end hardware like a 2 core CPU. You can learn more about the architecture and the process to train the network in [this post](https://vincentblog.link/posts/face-detection-for-low-end-hardware-using-the-blaze-face-architecture).
 
 You can test the model in your computer using:
 
@@ -48,5 +48,5 @@ This is only going to show the first 8 images, If you want to test more images y
 
 This model is also available as an iOS app written in Swift, actually, as 2 iOS apps. The first app uses **TensorFlow lite** to load and run the model, and the second app uses **CoreML**.
 
-You can check the post about the **TensorFlow Lite** version [here](https://vincentblog.xyz/posts/blaze-face-in-i-os-using-tensor-flow-lite), and the **CoreML** version [here](https://vincentblog.xyz/posts/blaze-face-in-i-os-using-core-ml).
+You can check the post about the **TensorFlow Lite** version [here](https://vincentblog.link/posts/blaze-face-in-i-os-using-tensor-flow-lite), and the **CoreML** version [here](https://vincentblog.link/posts/blaze-face-in-i-os-using-core-ml).
 
